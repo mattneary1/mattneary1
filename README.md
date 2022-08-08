@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Neary, but most people call me Matt (or Neary) rather than Matthew
-- 👀 I’m interested in broadening my development skills and building out my portfolio for future employers
+- 👀 I’m interested in broadening my development skills and building out my portfolio
 - 🌱 I’m currently learning via multiple mediums, but I'm formally taking a MERN full-stack course with Nucamp coding bootcamps
 - 📫 I can be reached at contact@matthewneary.com
 
